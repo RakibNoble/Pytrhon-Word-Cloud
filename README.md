@@ -25,7 +25,7 @@ Step 1 :
 Clone this repository
 
 bash
-   git clone https://github.com/your-username/wordcloud-generator.git
+   git clone https://github.com/RakibNoble/Pytrhon-Word-Cloud.git
    cd wordcloud-generator
 
 
